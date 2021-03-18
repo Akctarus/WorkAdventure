@@ -142,9 +142,14 @@
          "opacity":0,
          "properties":[
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Vous rentrez dans la zone de beta test"
+                 "value":"Vous entrez dans la zone beta test"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +186,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
