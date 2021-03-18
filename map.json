@@ -139,7 +139,7 @@
          "height":34,
          "id":15,
          "name":"beta_test",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"openWebsiteTrigger",
