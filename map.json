@@ -130,29 +130,18 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"openTriggerMessage",
                  "type":"string",
                  "value":"Vous entrez dans la zone beta test"
                 }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":3,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -183,6 +172,17 @@
          "type":"tilelayer",
          "visible":true,
          "width":46,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }],
